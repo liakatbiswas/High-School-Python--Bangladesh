@@ -32,14 +32,14 @@ Here are the solutions to your programming problems in Python, formatted in Mark
 ```markdown
 # Python Programming Solutions
 
-## 1. Addition of Two Numbers (দুটি সংখ্যা ইনপুট নিয়ে তাদের যোগফল প্রিন্ট করার জন্য একটি প্রোগ্রাম তৈরি করো)
+#### 1. Addition of Two Numbers (দুটি সংখ্যা ইনপুট নিয়ে তাদের যোগফল প্রিন্ট করার জন্য একটি প্রোগ্রাম তৈরি করো)
 ```python
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 print("Sum:", num1 + num2)
 ```
 
-## 2. Subtraction of Two Numbers (দুটি সংখ্যা ইনপুট নিয়ে তাদের বিয়োগফল প্রিন্ট করার জন্য একটি প্রোগ্রাম তৈরি করো)
+#### 2. Subtraction of Two Numbers (দুটি সংখ্যা ইনপুট নিয়ে তাদের বিয়োগফল প্রিন্ট করার জন্য একটি প্রোগ্রাম তৈরি করো)
 ```python
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
